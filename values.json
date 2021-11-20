@@ -48,9 +48,9 @@
             "smallImageText": "SNES"
         },
         "n64": {
-            "name": "N64 Switch",
+            "name": "Nintendo 64",
             "smallImageKey": "n64",
-            "smallImageText": "N64"
+            "smallImageText": "Nintendo 64"
         }
     }
 }
