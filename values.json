@@ -29,6 +29,11 @@
             "details": "The Legend Of Zelda: Breath of the Wild",
             "largeImageKey": "botw",
             "largeImageText": "The Legend Of Zelda: Breath of the Wild"
+        },
+        "sm64": {
+            "details": "Super Mario 64",
+            "largeImageKey": "sm64",
+            "largeImageText": "Super Mario 64"
         }
     },
     "consoles": {
