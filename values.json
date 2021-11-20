@@ -25,6 +25,11 @@
             "largeImageKey": "acnh",
             "largeImageText": "Animal Crossing New Horizons"
         },
+        "botw": {
+            "details": "The Legend Of Zelda: Breath of the Wild",
+            "largeImageKey": "botw",
+            "largeImageText": "The Legend Of Zelda: Breath of the Wild"
+        }
     },
     "consoles": {
         "switch": {
