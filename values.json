@@ -1,0 +1,23 @@
+{
+    "games": {
+        "bd": {
+            "details": "Pokémon Brilliant Diamond",
+            "largeImageKey": "bd",
+            "largeImageText": "Pokémon Brilliant Diamond"
+        },
+        "sp": {
+            "details": "Pokémon Shining Pearl",
+            "largeImageKey": "sp",
+            "largeImageText": "Pokémon Shining Pearl"
+        },
+        "md": {
+            "details": "Metroid Dread",
+            "largeImageKey": "md",
+            "largeImageText": "Metroid Dread"
+        }
+    },
+    "consoles": {
+        "smallImageKey": "switch_padded",
+        "smallImageText": "Nintendo Switch"
+    }
+}
