@@ -3,47 +3,56 @@
         "bd": {
             "details": "Pokémon Brilliant Diamond",
             "largeImageKey": "bd",
-            "largeImageText": "Pokémon Brilliant Diamond"
+            "largeImageText": "Pokémon Brilliant Diamond",
+            "console": "switch"
         },
         "sp": {
             "details": "Pokémon Shining Pearl",
             "largeImageKey": "sp",
-            "largeImageText": "Pokémon Shining Pearl"
+            "largeImageText": "Pokémon Shining Pearl",
+            "console": "switch"
         },
         "md": {
             "details": "Metroid Dread",
             "largeImageKey": "md",
-            "largeImageText": "Metroid Dread"
+            "largeImageText": "Metroid Dread",
+            "console": "switch"
         },
         "mo": {
             "details": "Mario Odyssey",
             "largeImageKey": "mo",
-            "largeImageText": "Mario Odyssey"
+            "largeImageText": "Mario Odyssey",
+            "console": "switch"
         },
         "acnh": {
             "details": "Animal Crossing New Horizons",
             "largeImageKey": "acnh",
-            "largeImageText": "Animal Crossing New Horizons"
+            "largeImageText": "Animal Crossing New Horizons",
+            "console": "switch"
         },
         "botw": {
             "details": "The Legend Of Zelda: Breath of the Wild",
             "largeImageKey": "botw",
-            "largeImageText": "The Legend Of Zelda: Breath of the Wild"
+            "largeImageText": "The Legend Of Zelda: Breath of the Wild",
+            "console": "switch"
         },
         "sm64": {
             "details": "Super Mario 64",
             "largeImageKey": "sm64",
-            "largeImageText": "Super Mario 64"
+            "largeImageText": "Super Mario 64",
+            "console": "n64"
         },
         "hg": {
             "details": "Pokémon HeartGold",
             "largeImageKey": "hg",
-            "largeImageText": "Pokémon HeartGold"
+            "largeImageText": "Pokémon HeartGold",
+            "console": "nds"
         },
         "ss": {
             "details": "Pokémon SoulSilver",
             "largeImageKey": "ss",
-            "largeImageText": "Pokémon SoulSilver"
+            "largeImageText": "Pokémon SoulSilver",
+            "console": "nds"
         }
     },
     "consoles": {
