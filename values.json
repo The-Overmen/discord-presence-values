@@ -36,6 +36,16 @@
             "name": "Nintendo Switch",
             "smallImageKey": "switch_padded",
             "smallImageText": "Nintendo Switch"
+        },
+        "snes": {
+            "name": "SNES",
+            "smallImageKey": "snes",
+            "smallImageText": "SNES"
+        },
+        "n64": {
+            "name": "N64 Switch",
+            "smallImageKey": "n64",
+            "smallImageText": "N64"
         }
     }
 }
