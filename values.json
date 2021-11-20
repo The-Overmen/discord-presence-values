@@ -37,12 +37,12 @@
         },
         "hg": {
             "details": "Pokémon HeartGold",
-            "largeImageKey": "placeholder",
+            "largeImageKey": "hg",
             "largeImageText": "Pokémon HeartGold"
         },
         "ss": {
             "details": "Pokémon SoulSilver",
-            "largeImageKey": "placeholder",
+            "largeImageKey": "ss",
             "largeImageText": "Pokémon SoulSilver"
         }
     },
