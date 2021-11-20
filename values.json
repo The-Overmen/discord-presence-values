@@ -51,6 +51,11 @@
             "name": "Nintendo 64",
             "smallImageKey": "n64",
             "smallImageText": "Nintendo 64"
+        },
+        "nds": {
+            "name": "Nintendo DS",
+            "smallImageKey": "nds",
+            "smallImageText": "Nintendo DS"
         }
     }
 }
