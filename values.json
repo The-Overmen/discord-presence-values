@@ -19,7 +19,12 @@
             "details": "Mario Odyssey",
             "largeImageKey": "mo",
             "largeImageText": "Mario Odyssey"
-        }
+        },
+        "acnh": {
+            "details": "Animal Crossing New Horizons",
+            "largeImageKey": "acnh",
+            "largeImageText": "Animal Crossing New Horizons"
+        },
     },
     "consoles": {
         "switch": {
