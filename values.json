@@ -1,5 +1,11 @@
 {
     "games": {
+        "la": {
+            "details": "Pokémon Legends: Arceus",
+            "largeImageKey": "la",
+            "largeImageText": "Pokémon Legends: Arceus",
+            "console": "switch"
+        },
         "bd": {
             "details": "Pokémon Brilliant Diamond",
             "largeImageKey": "bd",
